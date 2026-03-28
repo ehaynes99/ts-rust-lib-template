@@ -1,3 +1,3 @@
-# simple-node-typescript-app
+# ts-rust-lib-template
 
-Template project for node with typescript
+Basic template for an npm lib written in Rust
